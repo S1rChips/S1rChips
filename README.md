@@ -64,10 +64,19 @@
 ---
 
 ### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S1rChips&show_icons=true&theme=tokyonight&border_radius=15&custom_title=My%20Coding%20Stats&title_color=6E57E0&include_all_commits=true&count_private=true" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S1rChips&layout=compact&theme=tokyonight&border_radius=15&title_color=6E57E0&langs_count=6" height="170px"/>
-</p>
+
+<div align="center">
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=S1rChips&show_icons=true&theme=tokyonight&border_radius=15&custom_title=My%20Coding%20Stats&title_color=6E57E0&include_all_commits=true&count_private=true" height="170px" />
+
+  <!-- Animated Languages Chart -->
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=S1rChips&theme=tokyonight&hide_border=true&ring=6E57E0&fire=6E57E0&currStreakLabel=6E57E0" height="180px" />
+
+  <!-- Animated Bar Chart -->
+<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=S1rChips&theme=tokyo-night&bg_color=0d1117&color=6E57E0&line=6E57E0&point=6E57E0&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
 ---
 
