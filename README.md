@@ -65,10 +65,6 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=S1rChips&show_icons=true&theme=tokyonight&border_radius=15&custom_title=My%20Coding%20Stats&title_color=6E57E0&include_all_commits=true&count_private=true" />
-
   <!-- Animated Streak -->
 <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=S1rChips&theme=tokyonight&hide_border=true&ring=6E57E0&fire=6E57E0&currStreakLabel=6E57E0" height="180px" />
