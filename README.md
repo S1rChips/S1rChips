@@ -15,7 +15,6 @@
 
 ---
 
-
 ### 🧠 About Me
 💡 I'm a **Java** and **Python** developer focused on backend and Minecraft server development.  
 🚀 I specialize in **SpigotAPI** and work on **MineHeaven**, a high-quality Minecraft network.  
@@ -55,7 +54,7 @@
 
 ### 🏆 Featured Achievement
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=S1rChips&theme=tokyonight&title=Repositories,Commit,Followers,Stars&no-frame=true&margin-w=15&row=1" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=S1rChips&theme=tokyonight&title=Repositories&no-frame=true&margin-w=15&row=1" alt="Trophies">
 </p>
 
 <h3 align="center">🏗️ SpigotAPI Developer @ MineHeaven</h3>
@@ -66,16 +65,18 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <!-- Stats Card -->
+
+  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=S1rChips&show_icons=true&theme=tokyonight&border_radius=15&custom_title=My%20Coding%20Stats&title_color=6E57E0&include_all_commits=true&count_private=true" />
 
-  <!-- Animated Languages Chart -->
+  <!-- Animated Streak -->
 <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=S1rChips&theme=tokyonight&hide_border=true&ring=6E57E0&fire=6E57E0&currStreakLabel=6E57E0" height="180px" />
 
   <!-- Animated Bar Chart -->
 <br><br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=S1rChips&theme=tokyo-night&bg_color=0d1117&color=6E57E0&line=6E57E0&point=6E57E0&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
 </div>
 
 ---
