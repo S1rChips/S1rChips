@@ -67,7 +67,7 @@
 
 <div align="center">
   <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=S1rChips&show_icons=true&theme=tokyonight&border_radius=15&custom_title=My%20Coding%20Stats&title_color=6E57E0&include_all_commits=true&count_private=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=S1rChips&show_icons=true&theme=tokyonight&border_radius=15&custom_title=My%20Coding%20Stats&title_color=6E57E0&include_all_commits=true&count_private=true" />
 
   <!-- Animated Languages Chart -->
 <br><br>
